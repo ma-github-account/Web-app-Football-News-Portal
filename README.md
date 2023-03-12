@@ -1,4 +1,4 @@
-This Django application is a football news portal. Clicking on Read More button in list view causes the details site to be displayed.
+This Django application is a football (soccer) news portal. Clicking on Read More button in list view causes the details site to be displayed.
 
 Application is based on Crypto Currency News Site app explained by John Elder in his Udemy course Build a Crypto Currency News Site With Python and Django.
 
