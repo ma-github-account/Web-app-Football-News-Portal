@@ -45,6 +45,7 @@ How to run: 1.python manage.py makemigrations 2.python manage.py migrate 3.pytho
 
 
 
+![4](https://user-images.githubusercontent.com/89083426/224527018-1b437b5b-a3d4-4ea3-ae72-379aa3165677.jpg)
 
 
 
